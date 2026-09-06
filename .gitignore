@@ -15,3 +15,16 @@
 /.vscode/
 /.junie/
 /skills/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+/.ruff_cache/
+
+# Course runtime data
+/cache/
+/chroma_db/
+/storage/
+/chat_history.db
+*.db-shm
+*.db-wal
